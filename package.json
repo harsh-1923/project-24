@@ -1,0 +1,19 @@
+{
+  "name": "project-24",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harsh-1923/project-24.git"
+  },
+  "author": "Harsh Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harsh-1923/project-24/issues"
+  },
+  "homepage": "https://github.com/harsh-1923/project-24#readme"
+}
